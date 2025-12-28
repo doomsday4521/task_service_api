@@ -1,0 +1,40 @@
+# -------------------------
+# Virtual environments
+# -------------------------
+venv/
+.env/
+.env.*
+.venv/
+
+# -------------------------
+# Python cache / compiled
+# -------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -------------------------
+# Environment & secrets
+# -------------------------
+.env
+.env.local
+.env.dev
+.env.prod
+
+# -------------------------
+# IDE / Editor junk
+# -------------------------
+.vscode/
+.idea/
+*.swp
+
+# -------------------------
+# OS files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Logs & runtime files
+# -------------------------
+*.log
